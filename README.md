@@ -12,6 +12,7 @@
 
 1. Nodemon
 1. Webpack, Webpack CLI
+1. Babel, Babel Preset-React, Babel Loader
 
 ## Usage
 
