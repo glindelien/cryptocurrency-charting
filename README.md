@@ -13,6 +13,7 @@
 1. Nodemon
 1. Webpack, Webpack CLI
 1. Babel, Babel Preset-React, Babel Loader
+1. Live-Server
 
 ## Usage
 
@@ -20,4 +21,5 @@
 npm install
 npm run build
 npm run start
+live-server
 ```
