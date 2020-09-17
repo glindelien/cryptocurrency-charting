@@ -1,0 +1,14 @@
+Chart.js
+
+https://github.com/jerairrest/react-chartjs-2
+https://www.chartjs.org/docs/latest/
+https://www.chartjs.org/docs/latest/getting-started/usage.html
+
+Coindesk API
+
+https://www.coindesk.com/coindesk-api
+https://www.coindesk.com/price/bitcoin
+
+How-To:
+
+https://www.educative.io/edpresso/how-to-use-chartjs-to-create-charts-in-react
